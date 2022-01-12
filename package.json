@@ -1,0 +1,48 @@
+{
+  "name": "ecz-api-impl-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.66.4"
+  },
+  "dependencies": {
+    "ecz-api": "1.0.1"
+  },
+  "ern": {
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "EczApiImplNative",
+      "apiNames": [
+        "WalmartItem"
+      ]
+    },
+    "moduleType": "ern-native-api-impl",
+    "pluginConfig": {
+      "android": {
+        "root": "android/lib"
+      },
+      "ios": {
+        "copy": [
+          {
+            "dest": "{{{projectName}}}/APIImpls",
+            "source": "ios/ElectrodeApiImpl/APIImpls/*"
+          }
+        ],
+        "pbxproj": {
+          "addSource": [
+            {
+              "from": "ios/ElectrodeApiImpl/APIImpls/*.swift",
+              "group": "APIImpls",
+              "path": "APIImpls"
+            }
+          ]
+        },
+        "requiresManualLinking": true
+      }
+    }
+  },
+  "keywords": [
+    "ern-native-api-impl"
+  ]
+}
