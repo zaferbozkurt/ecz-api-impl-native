@@ -38,6 +38,9 @@ public final class WalmartItemApiController {
             sRequestHandler = new WalmartItemApiRequestHandlerProvider(requestHandlerConfig);
             sRequestHandler.registerFindItemsRequestHandler();
             sRequestHandler.registerAddItemRequestHandler();
+            sRequestHandler.registerGetUsersRequestHandler();
+            sRequestHandler.registerAddUserRequestHandler();
+            sRequestHandler.registerClickDetailRequestHandler();
         } else {
             Log.w("WalmartItemController", "Already registered, ignoring duplicate register call");
         }

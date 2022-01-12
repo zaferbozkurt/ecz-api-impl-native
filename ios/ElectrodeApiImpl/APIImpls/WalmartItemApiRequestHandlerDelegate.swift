@@ -27,4 +27,7 @@ import Foundation
 @objc public protocol WalmartItemApiRequestHandlerDelegate {
     func registerFindItemsRequestHandler()
     func registerAddItemRequestHandler()
+    func registerGetUsersRequestHandler()
+    func registerAddUserRequestHandler()
+    func registerClickDetailRequestHandler()
 }

@@ -17,59 +17,59 @@
 		6E28F6D823DBB722004A51CB /* ElectrodePluginConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E28F6D723DBB722004A51CB /* ElectrodePluginConfig.h */; };
 		968333D71E54E3470031C565 /* ElectrodeBridgeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 968333D51E54E3470031C565 /* ElectrodeBridgeDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		968333D81E54E3470031C565 /* ElectrodeBridgeDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 968333D61E54E3470031C565 /* ElectrodeBridgeDelegate.m */; };
-		30B8D3E9437A4692A2C6BC17 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008E0C2233364B52A4AD7C39 /* Item.swift */; };
-		324491C0C46E4338ADBFF2BE /* WalmartItemAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B5AC6AF02849E489DB49E4 /* WalmartItemAPI.swift */; };
-		CA28669CD7BA4970813D4C94 /* WalmartItemEvents.swift in Sources */ = {isa = PBXBuildFile; fileRef = F249ED96A99A4602BDF7E458 /* WalmartItemEvents.swift */; };
-		784080668FD54FEA9A6F1B87 /* WalmartItemRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955BFA3ED4604E478E926649 /* WalmartItemRequests.swift */; };
-		4F77E20AF0394EAD9140A72F /* Item.swift in Headers */ = {isa = PBXBuildFile; fileRef = 008E0C2233364B52A4AD7C39 /* Item.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		7A06A8FE970641DAA1848005 /* WalmartItemAPI.swift in Headers */ = {isa = PBXBuildFile; fileRef = 34B5AC6AF02849E489DB49E4 /* WalmartItemAPI.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		08292C18879F4EE790F5F4DF /* WalmartItemEvents.swift in Headers */ = {isa = PBXBuildFile; fileRef = F249ED96A99A4602BDF7E458 /* WalmartItemEvents.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		7056D18C894547E39DD32DEB /* WalmartItemRequests.swift in Headers */ = {isa = PBXBuildFile; fileRef = 955BFA3ED4604E478E926649 /* WalmartItemRequests.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		355D823467254DA9A6310B52 /* ElectrodeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C01CCFF1E24436B930E9D1 /* ElectrodeObject.swift */; };
-		15586AC234E045AD86C446EC /* Bridgeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59665ECFFD34C36B3A567B2 /* Bridgeable.swift */; };
-		BA708186AB8A4416A538470D /* ElectrodeRequestHandlerProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8BD67BAC34F44CBAC2B8AAF /* ElectrodeRequestHandlerProcessor.swift */; };
-		9CD617EB1855463984CF6F16 /* ElectrodeRequestProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152E536D97C54B6283D95A73 /* ElectrodeRequestProcessor.swift */; };
-		8607C3B96A444B21A5668D9A /* ElectrodeUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1304DB61A8B4780B53150F4 /* ElectrodeUtilities.swift */; };
-		55A72A4475124965BBD602F3 /* EventListenerProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C96D2A70CDE42139E34C30B /* EventListenerProcessor.swift */; };
-		8091FC6A020B40C9BEA42B09 /* EventProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 431D4C668AAC43B8BE9A42F1 /* EventProcessor.swift */; };
-		CA7CDB7684714B588A06829E /* Processor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54AE0B908CAD4F45A4336E4F /* Processor.swift */; };
-		6C40BCB942E844C9B0CE35B0 /* None.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE2195870FC64FBC90970C1D /* None.swift */; };
-		0646B15B4D7148B5A41FD231 /* ElectrodeBridgeEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 9346D1C197C7408B883B52AC /* ElectrodeBridgeEvent.m */; };
-		6D9FDE25C8F3479D99CDCEA3 /* ElectrodeBridgeFailureMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 627D35D13561492CB0708662 /* ElectrodeBridgeFailureMessage.m */; };
-		E5C5902EAAD14BBB92E20B00 /* ElectrodeBridgeHolder.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D3463EE75E54FA5BC6B2A80 /* ElectrodeBridgeHolder.m */; };
-		48B5F829C0CE4318B6A12523 /* ElectrodeBridgeMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = A1CADFA3711D4BD2AA52AE5E /* ElectrodeBridgeMessage.m */; };
-		BDE98758D19F47AA9559B8B7 /* ElectrodeBridgeProtocols.m in Sources */ = {isa = PBXBuildFile; fileRef = 09BE8204FA424822B5F4E6C6 /* ElectrodeBridgeProtocols.m */; };
-		D79626AFCC75498380A45EF3 /* ElectrodeBridgeRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 303FEA2F14E84E1A8F1AA366 /* ElectrodeBridgeRequest.m */; };
-		8683F73C67A34353B32E015E /* ElectrodeBridgeResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = CC799A1FA9A14189B9262B71 /* ElectrodeBridgeResponse.m */; };
-		670F599C0B6E4D48B08577FD /* ElectrodeBridgeTransaction.m in Sources */ = {isa = PBXBuildFile; fileRef = 57FB609985C341B0B080D4FC /* ElectrodeBridgeTransaction.m */; };
-		E09A08FC7CCD42C3988BE9FB /* ElectrodeBridgeTransceiver.m in Sources */ = {isa = PBXBuildFile; fileRef = ED679F308F4043DD8D494CCE /* ElectrodeBridgeTransceiver.m */; };
-		E54EE95AC719464DA3B179C2 /* ElectrodeEventDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = B01EC6EC0B514467B6ACF12E /* ElectrodeEventDispatcher.m */; };
-		7B8FBEE616184E1B9C2483A2 /* ElectrodeEventRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = F58B296E0F4F4CD9822F4EE7 /* ElectrodeEventRegistrar.m */; };
-		1FD1D801F3A14F56AE309006 /* ElectrodeRequestDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F4A38786F8741D382FE3443 /* ElectrodeRequestDispatcher.m */; };
-		4340AF0FDC104E6EAD12A1F8 /* ElectrodeRequestRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = C2C2A67710B6497C9FDB3721 /* ElectrodeRequestRegistrar.m */; };
-		FA7458D4DA9744C0B47710AE /* ElectrodeLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = D6566BF06D5A4953A85EB30A /* ElectrodeLogger.m */; };
-		1D86A1E740AE4B5EA9A862FD /* ElectrodeBridgeEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 66B4512C8EA04B1CB20010B4 /* ElectrodeBridgeEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		67F5B3A0F2D845678C4993F5 /* ElectrodeBridgeFailureMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 60566BB67C024E0986A51DDB /* ElectrodeBridgeFailureMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AF2FC8788A914CF2893C44B3 /* ElectrodeBridgeHolder.h in Headers */ = {isa = PBXBuildFile; fileRef = 35BCF0A0E0CF4DBCBB08C6B4 /* ElectrodeBridgeHolder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2497F7649CE84A3F86CDE646 /* ElectrodeBridgeMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 513802CFE84C4537A7B28998 /* ElectrodeBridgeMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		35D031E9D3164B70BD41EA41 /* ElectrodeBridgeProtocols.h in Headers */ = {isa = PBXBuildFile; fileRef = F06A6287CF7A4F91A03CAE70 /* ElectrodeBridgeProtocols.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BB90A9AE29264987AE474770 /* ElectrodeBridgeRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 9183D250FE42425C805874A1 /* ElectrodeBridgeRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		83D2EEDD471648F0A5A96360 /* ElectrodeBridgeTransaction.h in Headers */ = {isa = PBXBuildFile; fileRef = 386006BF5BDE48CF9A999EEA /* ElectrodeBridgeTransaction.h */; };
-		8296B99599C341F9BEFA8D6F /* ElectrodeBridgeTransceiver.h in Headers */ = {isa = PBXBuildFile; fileRef = CB754C5589B244C8AE11C1E3 /* ElectrodeBridgeTransceiver.h */; };
-		17F2657C2B3B4CE882B58AD7 /* ElectrodeBridgeTransceiver_Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 21ED225E98D64B3D8A4FD9D2 /* ElectrodeBridgeTransceiver_Internal.h */; };
-		BB2CC8BCCA844126881F558A /* ElectrodeEventDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = A3162A9A50C5428F90AF82C9 /* ElectrodeEventDispatcher.h */; };
-		29FFA68FDD31453ABA841B31 /* ElectrodeEventRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F71D90303F64116BD623781 /* ElectrodeEventRegistrar.h */; };
-		5EAE771B20F34D5F9C9CBFF2 /* ElectrodeRequestDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 85DD32E39C0D43F188627E59 /* ElectrodeRequestDispatcher.h */; };
-		E4D9FBF5B12D493CA26789D6 /* ElectrodeRequestRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = 46C3A5C80FB945D9A877E5DF /* ElectrodeRequestRegistrar.h */; };
-		B7A29D740DA24407AF0065AC /* ElectrodeReactNativeBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = B11F9EE9DDD44EE2A5E0ECDA /* ElectrodeReactNativeBridge.h */; };
-		711A94E0E7634DD392835AA0 /* ElectrodeBridgeResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = EE7C238F47E14CF7A01C4CA6 /* ElectrodeBridgeResponse.h */; };
-		B1673940D51342B18689518F /* ElectrodeLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 71A1D093072A435AB0DFF814 /* ElectrodeLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		68BBE31833934FFC92191F14 /* RequestHandlerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9752F98AD50D40E6BBBFB419 /* RequestHandlerConfig.swift */; };
-		EAE7366A9BED4397AEE254F6 /* RequestHandlerProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE2C4D21549944E1AEEC0882 /* RequestHandlerProvider.swift */; };
-		C7CCCB5AE8F14BD98B0D150B /* RequestHandlerConfig.swift in undefined */ = {isa = PBXBuildFile; fileRef = 9752F98AD50D40E6BBBFB419 /* RequestHandlerConfig.swift */; };
-		5044B0CC4F3F41C6BA4CDBA3 /* RequestHandlerProvider.swift in undefined */ = {isa = PBXBuildFile; fileRef = EE2C4D21549944E1AEEC0882 /* RequestHandlerProvider.swift */; };
-		4C9DAA60885741B18D5A37A7 /* WalmartItemApiController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C61A8029C164DAA81268910 /* WalmartItemApiController.swift */; };
-		84D46456DCEC4915855D4D73 /* WalmartItemApiRequestHandlerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641E15FB420A4BEBA80A237A /* WalmartItemApiRequestHandlerDelegate.swift */; };
+		9AA935F328244DF79E5F29E8 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C431597E9044C4099BEC7A6 /* Item.swift */; };
+		E10544CEE04A4C159FAB4EC9 /* WalmartItemAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922A6E5D84474F7B840F42BC /* WalmartItemAPI.swift */; };
+		5C0D7724CC904FB29E412B4B /* WalmartItemEvents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C7213BF5764497ACE87081 /* WalmartItemEvents.swift */; };
+		A6619120F42C469BAE3199E0 /* WalmartItemRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A353C9E8ADF8456F88CF6533 /* WalmartItemRequests.swift */; };
+		F47B946FE7D845EAA5F7EAF6 /* Item.swift in Headers */ = {isa = PBXBuildFile; fileRef = 9C431597E9044C4099BEC7A6 /* Item.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		35E2D272B7D14A2A82BC0F5B /* WalmartItemAPI.swift in Headers */ = {isa = PBXBuildFile; fileRef = 922A6E5D84474F7B840F42BC /* WalmartItemAPI.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		77FD983ECE50423C9BC9A3CC /* WalmartItemEvents.swift in Headers */ = {isa = PBXBuildFile; fileRef = 59C7213BF5764497ACE87081 /* WalmartItemEvents.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		28DDC3361263484D8488CAC4 /* WalmartItemRequests.swift in Headers */ = {isa = PBXBuildFile; fileRef = A353C9E8ADF8456F88CF6533 /* WalmartItemRequests.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		8486E9B0355C4076B514772A /* ElectrodeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0549ECE13B45F9A012CFBD /* ElectrodeObject.swift */; };
+		7522E06D72FA485188DF1FE8 /* Bridgeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BEE9129BC14C29A74598D0 /* Bridgeable.swift */; };
+		14ADFC868A354DB6ACFAF4CF /* ElectrodeRequestHandlerProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD618D8E8C2D4F659878F56F /* ElectrodeRequestHandlerProcessor.swift */; };
+		9DAD6EE4D34549A8830AD177 /* ElectrodeRequestProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249B9D7FCE7C45CBA16939A5 /* ElectrodeRequestProcessor.swift */; };
+		19FA4255B1F54D1E81704253 /* ElectrodeUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7552FB19440DD8E8A8A67 /* ElectrodeUtilities.swift */; };
+		2DB1BEDF7C824674A7D1094F /* EventListenerProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A087DC2219476CB0F969CF /* EventListenerProcessor.swift */; };
+		44C99D248BC8443CA3C6B7F5 /* EventProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A7C460831D4D9AAFB61F8C /* EventProcessor.swift */; };
+		3049DD6296044CC6AD0F9C89 /* Processor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC45FB17947F4AF08CC9AA44 /* Processor.swift */; };
+		B8F7B0C152164203BBE78765 /* None.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D11F14C82F64E81A1A29CF5 /* None.swift */; };
+		4DFCE7A386DE450DB9430E66 /* ElectrodeBridgeEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FBB9EAAE23D433FB2EE8EA7 /* ElectrodeBridgeEvent.m */; };
+		20D8783F93FA4CDE8348AC1E /* ElectrodeBridgeFailureMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C20025D45A4E979CB72285 /* ElectrodeBridgeFailureMessage.m */; };
+		EA1C09975C6042F8853F0A40 /* ElectrodeBridgeHolder.m in Sources */ = {isa = PBXBuildFile; fileRef = 482FB0159E6544049F289743 /* ElectrodeBridgeHolder.m */; };
+		A12CAE85F7C04D6CB7FBD6A9 /* ElectrodeBridgeMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 92F366F8F2A649B3A4894062 /* ElectrodeBridgeMessage.m */; };
+		BAE3FB9126B84E65830519C3 /* ElectrodeBridgeProtocols.m in Sources */ = {isa = PBXBuildFile; fileRef = 6543476031834852A305405F /* ElectrodeBridgeProtocols.m */; };
+		EA09061959D84C57BFA22586 /* ElectrodeBridgeRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 569E70D36E96453E9E5CE7A6 /* ElectrodeBridgeRequest.m */; };
+		0E20AC1EB65E4DEE84F62D07 /* ElectrodeBridgeResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D726B0EE24842679DA930DE /* ElectrodeBridgeResponse.m */; };
+		63DFCC25E3DD4CEDBF33D9AF /* ElectrodeBridgeTransaction.m in Sources */ = {isa = PBXBuildFile; fileRef = A9D48425085448F780653BB5 /* ElectrodeBridgeTransaction.m */; };
+		EDDFB1E70A5E4DD48DEC2E05 /* ElectrodeBridgeTransceiver.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EBCFA6E61744BFFA853C933 /* ElectrodeBridgeTransceiver.m */; };
+		150E8C831E16434185725389 /* ElectrodeEventDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 1892E3704A4543F99A041720 /* ElectrodeEventDispatcher.m */; };
+		021BA8A95CB24AE5A14A2634 /* ElectrodeEventRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = 743AAE5DC9B04E279636CB00 /* ElectrodeEventRegistrar.m */; };
+		03D2CE1426254BBFAB58A355 /* ElectrodeRequestDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEED2CD1E5F4922A67D7D02 /* ElectrodeRequestDispatcher.m */; };
+		695967A63F834901A1A0BB03 /* ElectrodeRequestRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = D12A3B92CA3B401F9255F047 /* ElectrodeRequestRegistrar.m */; };
+		9D40BDFD526F44B1940B5455 /* ElectrodeLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 796E56C27A5946858398FE3C /* ElectrodeLogger.m */; };
+		AB067F2614BB436BB874F7AB /* ElectrodeBridgeEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = AB2FA62FF3444DC9B59DD7C3 /* ElectrodeBridgeEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F803DFE1A2DF420FB1029C58 /* ElectrodeBridgeFailureMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = D27B3D7D25914C5DA40B4ED1 /* ElectrodeBridgeFailureMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AE5709EE1BAE4274979ECB4B /* ElectrodeBridgeHolder.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D478BAFB8EE48388879A7A4 /* ElectrodeBridgeHolder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DBD00226960249E49C893A5B /* ElectrodeBridgeMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = C14995814D8D4EAE88CE5357 /* ElectrodeBridgeMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7D592DCC04C74542A472D397 /* ElectrodeBridgeProtocols.h in Headers */ = {isa = PBXBuildFile; fileRef = 184BED607D6842DF949E8260 /* ElectrodeBridgeProtocols.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		03E6549623264CDA8C2DE09A /* ElectrodeBridgeRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 25D22D72A38249FE9F416ABA /* ElectrodeBridgeRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0A28B9D06F414D7D92C91C7F /* ElectrodeBridgeTransaction.h in Headers */ = {isa = PBXBuildFile; fileRef = EBDF74F55EE345B68E017005 /* ElectrodeBridgeTransaction.h */; };
+		979F0415F0C848249571A8AC /* ElectrodeBridgeTransceiver.h in Headers */ = {isa = PBXBuildFile; fileRef = 6067DDCDD60747C9B8EC32E5 /* ElectrodeBridgeTransceiver.h */; };
+		B3DDE7C206484E308D596DE8 /* ElectrodeBridgeTransceiver_Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = DEB5F7149EBC4684A4D3C92D /* ElectrodeBridgeTransceiver_Internal.h */; };
+		81F80E8D8F284CAA8F3660DA /* ElectrodeEventDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EB769CDA718438587DACF75 /* ElectrodeEventDispatcher.h */; };
+		C034EB1CAF464667A4A2C2BD /* ElectrodeEventRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = CB98339F7CA84AD9B25B7A8E /* ElectrodeEventRegistrar.h */; };
+		21A8D1EA3A04495FAC7374AA /* ElectrodeRequestDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 26BEA6F2442E45F39D77D81C /* ElectrodeRequestDispatcher.h */; };
+		CD934374767E4C89874D6F20 /* ElectrodeRequestRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = E188813EDB514B159EEEB53D /* ElectrodeRequestRegistrar.h */; };
+		3969F6E019F6469EA78E4344 /* ElectrodeReactNativeBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = 9070201706AC4F52962EA132 /* ElectrodeReactNativeBridge.h */; };
+		D1CAB4E506044E27BC311335 /* ElectrodeBridgeResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = 64887D7975B4475ABBC429DE /* ElectrodeBridgeResponse.h */; };
+		4CA9592173684680AA398890 /* ElectrodeLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 99B3F5DE42D548F8BD8681E7 /* ElectrodeLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EAC240AB7D5540E194C6DFF6 /* RequestHandlerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586AE8E6683942F4B678F8A1 /* RequestHandlerConfig.swift */; };
+		45B8188479EA4440A93D8E7E /* RequestHandlerProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932D6CBA285E428499E2FA11 /* RequestHandlerProvider.swift */; };
+		9A9786D2ED66455ABEF2F4F3 /* RequestHandlerConfig.swift in undefined */ = {isa = PBXBuildFile; fileRef = 586AE8E6683942F4B678F8A1 /* RequestHandlerConfig.swift */; };
+		BE2FDED1CC77465384FE3741 /* RequestHandlerProvider.swift in undefined */ = {isa = PBXBuildFile; fileRef = 932D6CBA285E428499E2FA11 /* RequestHandlerProvider.swift */; };
+		49FA9C305F4E404F9FA2A63D /* WalmartItemApiController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FCA40541D341C7909894DF /* WalmartItemApiController.swift */; };
+		68AC72A7B49C44C581BC38CB /* WalmartItemApiRequestHandlerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D3EA6200FAD4C44B92782D5 /* WalmartItemApiRequestHandlerDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,53 +97,53 @@
 		6E28F6D723DBB722004A51CB /* ElectrodePluginConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElectrodePluginConfig.h; sourceTree = "<group>"; };
 		968333D51E54E3470031C565 /* ElectrodeBridgeDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ElectrodeBridgeDelegate.h; sourceTree = "<group>"; };
 		968333D61E54E3470031C565 /* ElectrodeBridgeDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ElectrodeBridgeDelegate.m; sourceTree = "<group>"; };
-		008E0C2233364B52A4AD7C39 /* Item.swift */ = {isa = PBXFileReference; name = "Item.swift"; path = "APIs/Item.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 008E0C2233364B52A4AD7C39; basename = Item.swift; target = undefined; uuid = 4F77E20AF0394EAD9140A72F; settings = {ATTRIBUTES = (Public, ); }; };
-		34B5AC6AF02849E489DB49E4 /* WalmartItemAPI.swift */ = {isa = PBXFileReference; name = "WalmartItemAPI.swift"; path = "APIs/WalmartItemAPI.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 34B5AC6AF02849E489DB49E4; basename = WalmartItemAPI.swift; target = undefined; uuid = 7A06A8FE970641DAA1848005; settings = {ATTRIBUTES = (Public, ); }; };
-		F249ED96A99A4602BDF7E458 /* WalmartItemEvents.swift */ = {isa = PBXFileReference; name = "WalmartItemEvents.swift"; path = "APIs/WalmartItemEvents.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = F249ED96A99A4602BDF7E458; basename = WalmartItemEvents.swift; target = undefined; uuid = 08292C18879F4EE790F5F4DF; settings = {ATTRIBUTES = (Public, ); }; };
-		955BFA3ED4604E478E926649 /* WalmartItemRequests.swift */ = {isa = PBXFileReference; name = "WalmartItemRequests.swift"; path = "APIs/WalmartItemRequests.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 955BFA3ED4604E478E926649; basename = WalmartItemRequests.swift; target = undefined; uuid = 7056D18C894547E39DD32DEB; settings = {ATTRIBUTES = (Public, ); }; };
-		14C01CCFF1E24436B930E9D1 /* ElectrodeObject.swift */ = {isa = PBXFileReference; name = "ElectrodeObject.swift"; path = "ElectrodeReactNativeBridge/ElectrodeObject.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		B59665ECFFD34C36B3A567B2 /* Bridgeable.swift */ = {isa = PBXFileReference; name = "Bridgeable.swift"; path = "ElectrodeReactNativeBridge/Bridgeable.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		B8BD67BAC34F44CBAC2B8AAF /* ElectrodeRequestHandlerProcessor.swift */ = {isa = PBXFileReference; name = "ElectrodeRequestHandlerProcessor.swift"; path = "ElectrodeReactNativeBridge/ElectrodeRequestHandlerProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		152E536D97C54B6283D95A73 /* ElectrodeRequestProcessor.swift */ = {isa = PBXFileReference; name = "ElectrodeRequestProcessor.swift"; path = "ElectrodeReactNativeBridge/ElectrodeRequestProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		A1304DB61A8B4780B53150F4 /* ElectrodeUtilities.swift */ = {isa = PBXFileReference; name = "ElectrodeUtilities.swift"; path = "ElectrodeReactNativeBridge/ElectrodeUtilities.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		3C96D2A70CDE42139E34C30B /* EventListenerProcessor.swift */ = {isa = PBXFileReference; name = "EventListenerProcessor.swift"; path = "ElectrodeReactNativeBridge/EventListenerProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		431D4C668AAC43B8BE9A42F1 /* EventProcessor.swift */ = {isa = PBXFileReference; name = "EventProcessor.swift"; path = "ElectrodeReactNativeBridge/EventProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		54AE0B908CAD4F45A4336E4F /* Processor.swift */ = {isa = PBXFileReference; name = "Processor.swift"; path = "ElectrodeReactNativeBridge/Processor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		EE2195870FC64FBC90970C1D /* None.swift */ = {isa = PBXFileReference; name = "None.swift"; path = "ElectrodeReactNativeBridge/None.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		9346D1C197C7408B883B52AC /* ElectrodeBridgeEvent.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeEvent.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeEvent.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		627D35D13561492CB0708662 /* ElectrodeBridgeFailureMessage.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeFailureMessage.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeFailureMessage.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		9D3463EE75E54FA5BC6B2A80 /* ElectrodeBridgeHolder.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeHolder.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeHolder.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		A1CADFA3711D4BD2AA52AE5E /* ElectrodeBridgeMessage.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeMessage.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeMessage.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		09BE8204FA424822B5F4E6C6 /* ElectrodeBridgeProtocols.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeProtocols.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeProtocols.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		303FEA2F14E84E1A8F1AA366 /* ElectrodeBridgeRequest.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeRequest.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeRequest.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		CC799A1FA9A14189B9262B71 /* ElectrodeBridgeResponse.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeResponse.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeResponse.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		57FB609985C341B0B080D4FC /* ElectrodeBridgeTransaction.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransaction.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransaction.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		ED679F308F4043DD8D494CCE /* ElectrodeBridgeTransceiver.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		B01EC6EC0B514467B6ACF12E /* ElectrodeEventDispatcher.m */ = {isa = PBXFileReference; name = "ElectrodeEventDispatcher.m"; path = "ElectrodeReactNativeBridge/ElectrodeEventDispatcher.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		F58B296E0F4F4CD9822F4EE7 /* ElectrodeEventRegistrar.m */ = {isa = PBXFileReference; name = "ElectrodeEventRegistrar.m"; path = "ElectrodeReactNativeBridge/ElectrodeEventRegistrar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		5F4A38786F8741D382FE3443 /* ElectrodeRequestDispatcher.m */ = {isa = PBXFileReference; name = "ElectrodeRequestDispatcher.m"; path = "ElectrodeReactNativeBridge/ElectrodeRequestDispatcher.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		C2C2A67710B6497C9FDB3721 /* ElectrodeRequestRegistrar.m */ = {isa = PBXFileReference; name = "ElectrodeRequestRegistrar.m"; path = "ElectrodeReactNativeBridge/ElectrodeRequestRegistrar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		D6566BF06D5A4953A85EB30A /* ElectrodeLogger.m */ = {isa = PBXFileReference; name = "ElectrodeLogger.m"; path = "ElectrodeReactNativeBridge/ElectrodeLogger.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		66B4512C8EA04B1CB20010B4 /* ElectrodeBridgeEvent.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeEvent.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeEvent.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		60566BB67C024E0986A51DDB /* ElectrodeBridgeFailureMessage.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeFailureMessage.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeFailureMessage.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		35BCF0A0E0CF4DBCBB08C6B4 /* ElectrodeBridgeHolder.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeHolder.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeHolder.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		513802CFE84C4537A7B28998 /* ElectrodeBridgeMessage.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeMessage.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeMessage.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		F06A6287CF7A4F91A03CAE70 /* ElectrodeBridgeProtocols.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeProtocols.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeProtocols.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		9183D250FE42425C805874A1 /* ElectrodeBridgeRequest.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeRequest.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeRequest.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		386006BF5BDE48CF9A999EEA /* ElectrodeBridgeTransaction.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransaction.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransaction.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		CB754C5589B244C8AE11C1E3 /* ElectrodeBridgeTransceiver.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		21ED225E98D64B3D8A4FD9D2 /* ElectrodeBridgeTransceiver_Internal.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver_Internal.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver_Internal.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		A3162A9A50C5428F90AF82C9 /* ElectrodeEventDispatcher.h */ = {isa = PBXFileReference; name = "ElectrodeEventDispatcher.h"; path = "ElectrodeReactNativeBridge/ElectrodeEventDispatcher.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		6F71D90303F64116BD623781 /* ElectrodeEventRegistrar.h */ = {isa = PBXFileReference; name = "ElectrodeEventRegistrar.h"; path = "ElectrodeReactNativeBridge/ElectrodeEventRegistrar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		85DD32E39C0D43F188627E59 /* ElectrodeRequestDispatcher.h */ = {isa = PBXFileReference; name = "ElectrodeRequestDispatcher.h"; path = "ElectrodeReactNativeBridge/ElectrodeRequestDispatcher.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		46C3A5C80FB945D9A877E5DF /* ElectrodeRequestRegistrar.h */ = {isa = PBXFileReference; name = "ElectrodeRequestRegistrar.h"; path = "ElectrodeReactNativeBridge/ElectrodeRequestRegistrar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		B11F9EE9DDD44EE2A5E0ECDA /* ElectrodeReactNativeBridge.h */ = {isa = PBXFileReference; name = "ElectrodeReactNativeBridge.h"; path = "ElectrodeReactNativeBridge/ElectrodeReactNativeBridge.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		EE7C238F47E14CF7A01C4CA6 /* ElectrodeBridgeResponse.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeResponse.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeResponse.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		71A1D093072A435AB0DFF814 /* ElectrodeLogger.h */ = {isa = PBXFileReference; name = "ElectrodeLogger.h"; path = "ElectrodeReactNativeBridge/ElectrodeLogger.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		9752F98AD50D40E6BBBFB419 /* RequestHandlerConfig.swift */ = {isa = PBXFileReference; name = "RequestHandlerConfig.swift"; path = "APIImpls/RequestHandlerConfig.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 9752F98AD50D40E6BBBFB419; basename = RequestHandlerConfig.swift; target = undefined; uuid = C7CCCB5AE8F14BD98B0D150B; };
-		EE2C4D21549944E1AEEC0882 /* RequestHandlerProvider.swift */ = {isa = PBXFileReference; name = "RequestHandlerProvider.swift"; path = "APIImpls/RequestHandlerProvider.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = EE2C4D21549944E1AEEC0882; basename = RequestHandlerProvider.swift; target = undefined; uuid = 5044B0CC4F3F41C6BA4CDBA3; };
-		1C61A8029C164DAA81268910 /* WalmartItemApiController.swift */ = {isa = PBXFileReference; name = "WalmartItemApiController.swift"; path = "APIImpls/WalmartItemApiController.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
-		641E15FB420A4BEBA80A237A /* WalmartItemApiRequestHandlerDelegate.swift */ = {isa = PBXFileReference; name = "WalmartItemApiRequestHandlerDelegate.swift"; path = "APIImpls/WalmartItemApiRequestHandlerDelegate.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		9C431597E9044C4099BEC7A6 /* Item.swift */ = {isa = PBXFileReference; name = "Item.swift"; path = "APIs/Item.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 9C431597E9044C4099BEC7A6; basename = Item.swift; target = undefined; uuid = F47B946FE7D845EAA5F7EAF6; settings = {ATTRIBUTES = (Public, ); }; };
+		922A6E5D84474F7B840F42BC /* WalmartItemAPI.swift */ = {isa = PBXFileReference; name = "WalmartItemAPI.swift"; path = "APIs/WalmartItemAPI.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 922A6E5D84474F7B840F42BC; basename = WalmartItemAPI.swift; target = undefined; uuid = 35E2D272B7D14A2A82BC0F5B; settings = {ATTRIBUTES = (Public, ); }; };
+		59C7213BF5764497ACE87081 /* WalmartItemEvents.swift */ = {isa = PBXFileReference; name = "WalmartItemEvents.swift"; path = "APIs/WalmartItemEvents.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 59C7213BF5764497ACE87081; basename = WalmartItemEvents.swift; target = undefined; uuid = 77FD983ECE50423C9BC9A3CC; settings = {ATTRIBUTES = (Public, ); }; };
+		A353C9E8ADF8456F88CF6533 /* WalmartItemRequests.swift */ = {isa = PBXFileReference; name = "WalmartItemRequests.swift"; path = "APIs/WalmartItemRequests.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = A353C9E8ADF8456F88CF6533; basename = WalmartItemRequests.swift; target = undefined; uuid = 28DDC3361263484D8488CAC4; settings = {ATTRIBUTES = (Public, ); }; };
+		FE0549ECE13B45F9A012CFBD /* ElectrodeObject.swift */ = {isa = PBXFileReference; name = "ElectrodeObject.swift"; path = "ElectrodeReactNativeBridge/ElectrodeObject.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		E7BEE9129BC14C29A74598D0 /* Bridgeable.swift */ = {isa = PBXFileReference; name = "Bridgeable.swift"; path = "ElectrodeReactNativeBridge/Bridgeable.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		CD618D8E8C2D4F659878F56F /* ElectrodeRequestHandlerProcessor.swift */ = {isa = PBXFileReference; name = "ElectrodeRequestHandlerProcessor.swift"; path = "ElectrodeReactNativeBridge/ElectrodeRequestHandlerProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		249B9D7FCE7C45CBA16939A5 /* ElectrodeRequestProcessor.swift */ = {isa = PBXFileReference; name = "ElectrodeRequestProcessor.swift"; path = "ElectrodeReactNativeBridge/ElectrodeRequestProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		E1E7552FB19440DD8E8A8A67 /* ElectrodeUtilities.swift */ = {isa = PBXFileReference; name = "ElectrodeUtilities.swift"; path = "ElectrodeReactNativeBridge/ElectrodeUtilities.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		C0A087DC2219476CB0F969CF /* EventListenerProcessor.swift */ = {isa = PBXFileReference; name = "EventListenerProcessor.swift"; path = "ElectrodeReactNativeBridge/EventListenerProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		C9A7C460831D4D9AAFB61F8C /* EventProcessor.swift */ = {isa = PBXFileReference; name = "EventProcessor.swift"; path = "ElectrodeReactNativeBridge/EventProcessor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		CC45FB17947F4AF08CC9AA44 /* Processor.swift */ = {isa = PBXFileReference; name = "Processor.swift"; path = "ElectrodeReactNativeBridge/Processor.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		0D11F14C82F64E81A1A29CF5 /* None.swift */ = {isa = PBXFileReference; name = "None.swift"; path = "ElectrodeReactNativeBridge/None.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		6FBB9EAAE23D433FB2EE8EA7 /* ElectrodeBridgeEvent.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeEvent.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeEvent.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		39C20025D45A4E979CB72285 /* ElectrodeBridgeFailureMessage.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeFailureMessage.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeFailureMessage.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		482FB0159E6544049F289743 /* ElectrodeBridgeHolder.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeHolder.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeHolder.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		92F366F8F2A649B3A4894062 /* ElectrodeBridgeMessage.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeMessage.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeMessage.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		6543476031834852A305405F /* ElectrodeBridgeProtocols.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeProtocols.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeProtocols.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		569E70D36E96453E9E5CE7A6 /* ElectrodeBridgeRequest.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeRequest.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeRequest.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		9D726B0EE24842679DA930DE /* ElectrodeBridgeResponse.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeResponse.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeResponse.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		A9D48425085448F780653BB5 /* ElectrodeBridgeTransaction.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransaction.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransaction.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		5EBCFA6E61744BFFA853C933 /* ElectrodeBridgeTransceiver.m */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver.m"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		1892E3704A4543F99A041720 /* ElectrodeEventDispatcher.m */ = {isa = PBXFileReference; name = "ElectrodeEventDispatcher.m"; path = "ElectrodeReactNativeBridge/ElectrodeEventDispatcher.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		743AAE5DC9B04E279636CB00 /* ElectrodeEventRegistrar.m */ = {isa = PBXFileReference; name = "ElectrodeEventRegistrar.m"; path = "ElectrodeReactNativeBridge/ElectrodeEventRegistrar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		2BEED2CD1E5F4922A67D7D02 /* ElectrodeRequestDispatcher.m */ = {isa = PBXFileReference; name = "ElectrodeRequestDispatcher.m"; path = "ElectrodeReactNativeBridge/ElectrodeRequestDispatcher.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		D12A3B92CA3B401F9255F047 /* ElectrodeRequestRegistrar.m */ = {isa = PBXFileReference; name = "ElectrodeRequestRegistrar.m"; path = "ElectrodeReactNativeBridge/ElectrodeRequestRegistrar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		796E56C27A5946858398FE3C /* ElectrodeLogger.m */ = {isa = PBXFileReference; name = "ElectrodeLogger.m"; path = "ElectrodeReactNativeBridge/ElectrodeLogger.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		AB2FA62FF3444DC9B59DD7C3 /* ElectrodeBridgeEvent.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeEvent.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeEvent.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		D27B3D7D25914C5DA40B4ED1 /* ElectrodeBridgeFailureMessage.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeFailureMessage.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeFailureMessage.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		6D478BAFB8EE48388879A7A4 /* ElectrodeBridgeHolder.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeHolder.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeHolder.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		C14995814D8D4EAE88CE5357 /* ElectrodeBridgeMessage.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeMessage.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeMessage.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		184BED607D6842DF949E8260 /* ElectrodeBridgeProtocols.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeProtocols.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeProtocols.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		25D22D72A38249FE9F416ABA /* ElectrodeBridgeRequest.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeRequest.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeRequest.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		EBDF74F55EE345B68E017005 /* ElectrodeBridgeTransaction.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransaction.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransaction.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		6067DDCDD60747C9B8EC32E5 /* ElectrodeBridgeTransceiver.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		DEB5F7149EBC4684A4D3C92D /* ElectrodeBridgeTransceiver_Internal.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeTransceiver_Internal.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeTransceiver_Internal.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		6EB769CDA718438587DACF75 /* ElectrodeEventDispatcher.h */ = {isa = PBXFileReference; name = "ElectrodeEventDispatcher.h"; path = "ElectrodeReactNativeBridge/ElectrodeEventDispatcher.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		CB98339F7CA84AD9B25B7A8E /* ElectrodeEventRegistrar.h */ = {isa = PBXFileReference; name = "ElectrodeEventRegistrar.h"; path = "ElectrodeReactNativeBridge/ElectrodeEventRegistrar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		26BEA6F2442E45F39D77D81C /* ElectrodeRequestDispatcher.h */ = {isa = PBXFileReference; name = "ElectrodeRequestDispatcher.h"; path = "ElectrodeReactNativeBridge/ElectrodeRequestDispatcher.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		E188813EDB514B159EEEB53D /* ElectrodeRequestRegistrar.h */ = {isa = PBXFileReference; name = "ElectrodeRequestRegistrar.h"; path = "ElectrodeReactNativeBridge/ElectrodeRequestRegistrar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		9070201706AC4F52962EA132 /* ElectrodeReactNativeBridge.h */ = {isa = PBXFileReference; name = "ElectrodeReactNativeBridge.h"; path = "ElectrodeReactNativeBridge/ElectrodeReactNativeBridge.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		64887D7975B4475ABBC429DE /* ElectrodeBridgeResponse.h */ = {isa = PBXFileReference; name = "ElectrodeBridgeResponse.h"; path = "ElectrodeReactNativeBridge/ElectrodeBridgeResponse.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		99B3F5DE42D548F8BD8681E7 /* ElectrodeLogger.h */ = {isa = PBXFileReference; name = "ElectrodeLogger.h"; path = "ElectrodeReactNativeBridge/ElectrodeLogger.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		586AE8E6683942F4B678F8A1 /* RequestHandlerConfig.swift */ = {isa = PBXFileReference; name = "RequestHandlerConfig.swift"; path = "APIImpls/RequestHandlerConfig.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 586AE8E6683942F4B678F8A1; basename = RequestHandlerConfig.swift; target = undefined; uuid = 9A9786D2ED66455ABEF2F4F3; };
+		932D6CBA285E428499E2FA11 /* RequestHandlerProvider.swift */ = {isa = PBXFileReference; name = "RequestHandlerProvider.swift"; path = "APIImpls/RequestHandlerProvider.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; fileRef = 932D6CBA285E428499E2FA11; basename = RequestHandlerProvider.swift; target = undefined; uuid = BE2FDED1CC77465384FE3741; };
+		E9FCA40541D341C7909894DF /* WalmartItemApiController.swift */ = {isa = PBXFileReference; name = "WalmartItemApiController.swift"; path = "APIImpls/WalmartItemApiController.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		8D3EA6200FAD4C44B92782D5 /* WalmartItemApiRequestHandlerDelegate.swift */ = {isa = PBXFileReference; name = "WalmartItemApiRequestHandlerDelegate.swift"; path = "APIImpls/WalmartItemApiRequestHandlerDelegate.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,10 +175,10 @@
 		22C096A91EA0893F00E1486A /* APIs */ = {
 			isa = PBXGroup;
 			children = (
-				008E0C2233364B52A4AD7C39 /* Item.swift */,
-				34B5AC6AF02849E489DB49E4 /* WalmartItemAPI.swift */,
-				F249ED96A99A4602BDF7E458 /* WalmartItemEvents.swift */,
-				955BFA3ED4604E478E926649 /* WalmartItemRequests.swift */,
+				9C431597E9044C4099BEC7A6 /* Item.swift */,
+				922A6E5D84474F7B840F42BC /* WalmartItemAPI.swift */,
+				59C7213BF5764497ACE87081 /* WalmartItemEvents.swift */,
+				A353C9E8ADF8456F88CF6533 /* WalmartItemRequests.swift */,
 			);
 			name = APIs;
 			sourceTree = "<group>";
@@ -186,45 +186,45 @@
 		22FD4D1E1E96ECBB00FC81DB /* ElectrodeReactNativeBridge */ = {
 			isa = PBXGroup;
 			children = (
-				14C01CCFF1E24436B930E9D1 /* ElectrodeObject.swift */,
-				B59665ECFFD34C36B3A567B2 /* Bridgeable.swift */,
-				B8BD67BAC34F44CBAC2B8AAF /* ElectrodeRequestHandlerProcessor.swift */,
-				152E536D97C54B6283D95A73 /* ElectrodeRequestProcessor.swift */,
-				A1304DB61A8B4780B53150F4 /* ElectrodeUtilities.swift */,
-				3C96D2A70CDE42139E34C30B /* EventListenerProcessor.swift */,
-				431D4C668AAC43B8BE9A42F1 /* EventProcessor.swift */,
-				54AE0B908CAD4F45A4336E4F /* Processor.swift */,
-				EE2195870FC64FBC90970C1D /* None.swift */,
-				9346D1C197C7408B883B52AC /* ElectrodeBridgeEvent.m */,
-				627D35D13561492CB0708662 /* ElectrodeBridgeFailureMessage.m */,
-				9D3463EE75E54FA5BC6B2A80 /* ElectrodeBridgeHolder.m */,
-				A1CADFA3711D4BD2AA52AE5E /* ElectrodeBridgeMessage.m */,
-				09BE8204FA424822B5F4E6C6 /* ElectrodeBridgeProtocols.m */,
-				303FEA2F14E84E1A8F1AA366 /* ElectrodeBridgeRequest.m */,
-				CC799A1FA9A14189B9262B71 /* ElectrodeBridgeResponse.m */,
-				57FB609985C341B0B080D4FC /* ElectrodeBridgeTransaction.m */,
-				ED679F308F4043DD8D494CCE /* ElectrodeBridgeTransceiver.m */,
-				B01EC6EC0B514467B6ACF12E /* ElectrodeEventDispatcher.m */,
-				F58B296E0F4F4CD9822F4EE7 /* ElectrodeEventRegistrar.m */,
-				5F4A38786F8741D382FE3443 /* ElectrodeRequestDispatcher.m */,
-				C2C2A67710B6497C9FDB3721 /* ElectrodeRequestRegistrar.m */,
-				D6566BF06D5A4953A85EB30A /* ElectrodeLogger.m */,
-				66B4512C8EA04B1CB20010B4 /* ElectrodeBridgeEvent.h */,
-				60566BB67C024E0986A51DDB /* ElectrodeBridgeFailureMessage.h */,
-				35BCF0A0E0CF4DBCBB08C6B4 /* ElectrodeBridgeHolder.h */,
-				513802CFE84C4537A7B28998 /* ElectrodeBridgeMessage.h */,
-				F06A6287CF7A4F91A03CAE70 /* ElectrodeBridgeProtocols.h */,
-				9183D250FE42425C805874A1 /* ElectrodeBridgeRequest.h */,
-				386006BF5BDE48CF9A999EEA /* ElectrodeBridgeTransaction.h */,
-				CB754C5589B244C8AE11C1E3 /* ElectrodeBridgeTransceiver.h */,
-				21ED225E98D64B3D8A4FD9D2 /* ElectrodeBridgeTransceiver_Internal.h */,
-				A3162A9A50C5428F90AF82C9 /* ElectrodeEventDispatcher.h */,
-				6F71D90303F64116BD623781 /* ElectrodeEventRegistrar.h */,
-				85DD32E39C0D43F188627E59 /* ElectrodeRequestDispatcher.h */,
-				46C3A5C80FB945D9A877E5DF /* ElectrodeRequestRegistrar.h */,
-				B11F9EE9DDD44EE2A5E0ECDA /* ElectrodeReactNativeBridge.h */,
-				EE7C238F47E14CF7A01C4CA6 /* ElectrodeBridgeResponse.h */,
-				71A1D093072A435AB0DFF814 /* ElectrodeLogger.h */,
+				FE0549ECE13B45F9A012CFBD /* ElectrodeObject.swift */,
+				E7BEE9129BC14C29A74598D0 /* Bridgeable.swift */,
+				CD618D8E8C2D4F659878F56F /* ElectrodeRequestHandlerProcessor.swift */,
+				249B9D7FCE7C45CBA16939A5 /* ElectrodeRequestProcessor.swift */,
+				E1E7552FB19440DD8E8A8A67 /* ElectrodeUtilities.swift */,
+				C0A087DC2219476CB0F969CF /* EventListenerProcessor.swift */,
+				C9A7C460831D4D9AAFB61F8C /* EventProcessor.swift */,
+				CC45FB17947F4AF08CC9AA44 /* Processor.swift */,
+				0D11F14C82F64E81A1A29CF5 /* None.swift */,
+				6FBB9EAAE23D433FB2EE8EA7 /* ElectrodeBridgeEvent.m */,
+				39C20025D45A4E979CB72285 /* ElectrodeBridgeFailureMessage.m */,
+				482FB0159E6544049F289743 /* ElectrodeBridgeHolder.m */,
+				92F366F8F2A649B3A4894062 /* ElectrodeBridgeMessage.m */,
+				6543476031834852A305405F /* ElectrodeBridgeProtocols.m */,
+				569E70D36E96453E9E5CE7A6 /* ElectrodeBridgeRequest.m */,
+				9D726B0EE24842679DA930DE /* ElectrodeBridgeResponse.m */,
+				A9D48425085448F780653BB5 /* ElectrodeBridgeTransaction.m */,
+				5EBCFA6E61744BFFA853C933 /* ElectrodeBridgeTransceiver.m */,
+				1892E3704A4543F99A041720 /* ElectrodeEventDispatcher.m */,
+				743AAE5DC9B04E279636CB00 /* ElectrodeEventRegistrar.m */,
+				2BEED2CD1E5F4922A67D7D02 /* ElectrodeRequestDispatcher.m */,
+				D12A3B92CA3B401F9255F047 /* ElectrodeRequestRegistrar.m */,
+				796E56C27A5946858398FE3C /* ElectrodeLogger.m */,
+				AB2FA62FF3444DC9B59DD7C3 /* ElectrodeBridgeEvent.h */,
+				D27B3D7D25914C5DA40B4ED1 /* ElectrodeBridgeFailureMessage.h */,
+				6D478BAFB8EE48388879A7A4 /* ElectrodeBridgeHolder.h */,
+				C14995814D8D4EAE88CE5357 /* ElectrodeBridgeMessage.h */,
+				184BED607D6842DF949E8260 /* ElectrodeBridgeProtocols.h */,
+				25D22D72A38249FE9F416ABA /* ElectrodeBridgeRequest.h */,
+				EBDF74F55EE345B68E017005 /* ElectrodeBridgeTransaction.h */,
+				6067DDCDD60747C9B8EC32E5 /* ElectrodeBridgeTransceiver.h */,
+				DEB5F7149EBC4684A4D3C92D /* ElectrodeBridgeTransceiver_Internal.h */,
+				6EB769CDA718438587DACF75 /* ElectrodeEventDispatcher.h */,
+				CB98339F7CA84AD9B25B7A8E /* ElectrodeEventRegistrar.h */,
+				26BEA6F2442E45F39D77D81C /* ElectrodeRequestDispatcher.h */,
+				E188813EDB514B159EEEB53D /* ElectrodeRequestRegistrar.h */,
+				9070201706AC4F52962EA132 /* ElectrodeReactNativeBridge.h */,
+				64887D7975B4475ABBC429DE /* ElectrodeBridgeResponse.h */,
+				99B3F5DE42D548F8BD8681E7 /* ElectrodeLogger.h */,
 			);
 			name = ElectrodeReactNativeBridge;
 			sourceTree = "<group>";
@@ -298,10 +298,10 @@
 		7F1C6B771FAD343A00F68360 /* APIImpls */ = {
 			isa = PBXGroup;
 			children = (
-				9752F98AD50D40E6BBBFB419 /* RequestHandlerConfig.swift */,
-				EE2C4D21549944E1AEEC0882 /* RequestHandlerProvider.swift */,
-				1C61A8029C164DAA81268910 /* WalmartItemApiController.swift */,
-				641E15FB420A4BEBA80A237A /* WalmartItemApiRequestHandlerDelegate.swift */,
+				586AE8E6683942F4B678F8A1 /* RequestHandlerConfig.swift */,
+				932D6CBA285E428499E2FA11 /* RequestHandlerProvider.swift */,
+				E9FCA40541D341C7909894DF /* WalmartItemApiController.swift */,
+				8D3EA6200FAD4C44B92782D5 /* WalmartItemApiRequestHandlerDelegate.swift */,
 			);
 			name = APIImpls;
 			sourceTree = "<group>";
@@ -325,26 +325,26 @@
 				968333D71E54E3470031C565 /* ElectrodeBridgeDelegate.h in Headers */,
 				30F8CDEE1E67946E00413247 /* ElectrodeReactNative_Internal.h in Headers */,
 				48500A981E2FF55B009B6610 /* ElectrodeReactNative.h in Headers */,
-				4F77E20AF0394EAD9140A72F /* Item.swift in Headers */,
-				7A06A8FE970641DAA1848005 /* WalmartItemAPI.swift in Headers */,
-				08292C18879F4EE790F5F4DF /* WalmartItemEvents.swift in Headers */,
-				7056D18C894547E39DD32DEB /* WalmartItemRequests.swift in Headers */,
-				1D86A1E740AE4B5EA9A862FD /* ElectrodeBridgeEvent.h in Headers */,
-				67F5B3A0F2D845678C4993F5 /* ElectrodeBridgeFailureMessage.h in Headers */,
-				AF2FC8788A914CF2893C44B3 /* ElectrodeBridgeHolder.h in Headers */,
-				2497F7649CE84A3F86CDE646 /* ElectrodeBridgeMessage.h in Headers */,
-				35D031E9D3164B70BD41EA41 /* ElectrodeBridgeProtocols.h in Headers */,
-				BB90A9AE29264987AE474770 /* ElectrodeBridgeRequest.h in Headers */,
-				83D2EEDD471648F0A5A96360 /* ElectrodeBridgeTransaction.h in Headers */,
-				8296B99599C341F9BEFA8D6F /* ElectrodeBridgeTransceiver.h in Headers */,
-				17F2657C2B3B4CE882B58AD7 /* ElectrodeBridgeTransceiver_Internal.h in Headers */,
-				BB2CC8BCCA844126881F558A /* ElectrodeEventDispatcher.h in Headers */,
-				29FFA68FDD31453ABA841B31 /* ElectrodeEventRegistrar.h in Headers */,
-				5EAE771B20F34D5F9C9CBFF2 /* ElectrodeRequestDispatcher.h in Headers */,
-				E4D9FBF5B12D493CA26789D6 /* ElectrodeRequestRegistrar.h in Headers */,
-				B7A29D740DA24407AF0065AC /* ElectrodeReactNativeBridge.h in Headers */,
-				711A94E0E7634DD392835AA0 /* ElectrodeBridgeResponse.h in Headers */,
-				B1673940D51342B18689518F /* ElectrodeLogger.h in Headers */,
+				F47B946FE7D845EAA5F7EAF6 /* Item.swift in Headers */,
+				35E2D272B7D14A2A82BC0F5B /* WalmartItemAPI.swift in Headers */,
+				77FD983ECE50423C9BC9A3CC /* WalmartItemEvents.swift in Headers */,
+				28DDC3361263484D8488CAC4 /* WalmartItemRequests.swift in Headers */,
+				AB067F2614BB436BB874F7AB /* ElectrodeBridgeEvent.h in Headers */,
+				F803DFE1A2DF420FB1029C58 /* ElectrodeBridgeFailureMessage.h in Headers */,
+				AE5709EE1BAE4274979ECB4B /* ElectrodeBridgeHolder.h in Headers */,
+				DBD00226960249E49C893A5B /* ElectrodeBridgeMessage.h in Headers */,
+				7D592DCC04C74542A472D397 /* ElectrodeBridgeProtocols.h in Headers */,
+				03E6549623264CDA8C2DE09A /* ElectrodeBridgeRequest.h in Headers */,
+				0A28B9D06F414D7D92C91C7F /* ElectrodeBridgeTransaction.h in Headers */,
+				979F0415F0C848249571A8AC /* ElectrodeBridgeTransceiver.h in Headers */,
+				B3DDE7C206484E308D596DE8 /* ElectrodeBridgeTransceiver_Internal.h in Headers */,
+				81F80E8D8F284CAA8F3660DA /* ElectrodeEventDispatcher.h in Headers */,
+				C034EB1CAF464667A4A2C2BD /* ElectrodeEventRegistrar.h in Headers */,
+				21A8D1EA3A04495FAC7374AA /* ElectrodeRequestDispatcher.h in Headers */,
+				CD934374767E4C89874D6F20 /* ElectrodeRequestRegistrar.h in Headers */,
+				3969F6E019F6469EA78E4344 /* ElectrodeReactNativeBridge.h in Headers */,
+				D1CAB4E506044E27BC311335 /* ElectrodeBridgeResponse.h in Headers */,
+				4CA9592173684680AA398890 /* ElectrodeLogger.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,39 +453,39 @@
 			files = (
 				48500A991E2FF55B009B6610 /* ElectrodeReactNative.m in Sources */,
 				968333D81E54E3470031C565 /* ElectrodeBridgeDelegate.m in Sources */,
-				30B8D3E9437A4692A2C6BC17 /* Item.swift in Sources */,
-				324491C0C46E4338ADBFF2BE /* WalmartItemAPI.swift in Sources */,
-				CA28669CD7BA4970813D4C94 /* WalmartItemEvents.swift in Sources */,
-				784080668FD54FEA9A6F1B87 /* WalmartItemRequests.swift in Sources */,
-				355D823467254DA9A6310B52 /* ElectrodeObject.swift in Sources */,
-				15586AC234E045AD86C446EC /* Bridgeable.swift in Sources */,
-				BA708186AB8A4416A538470D /* ElectrodeRequestHandlerProcessor.swift in Sources */,
-				9CD617EB1855463984CF6F16 /* ElectrodeRequestProcessor.swift in Sources */,
-				8607C3B96A444B21A5668D9A /* ElectrodeUtilities.swift in Sources */,
-				55A72A4475124965BBD602F3 /* EventListenerProcessor.swift in Sources */,
-				8091FC6A020B40C9BEA42B09 /* EventProcessor.swift in Sources */,
-				CA7CDB7684714B588A06829E /* Processor.swift in Sources */,
-				6C40BCB942E844C9B0CE35B0 /* None.swift in Sources */,
-				0646B15B4D7148B5A41FD231 /* ElectrodeBridgeEvent.m in Sources */,
-				6D9FDE25C8F3479D99CDCEA3 /* ElectrodeBridgeFailureMessage.m in Sources */,
-				E5C5902EAAD14BBB92E20B00 /* ElectrodeBridgeHolder.m in Sources */,
-				48B5F829C0CE4318B6A12523 /* ElectrodeBridgeMessage.m in Sources */,
-				BDE98758D19F47AA9559B8B7 /* ElectrodeBridgeProtocols.m in Sources */,
-				D79626AFCC75498380A45EF3 /* ElectrodeBridgeRequest.m in Sources */,
-				8683F73C67A34353B32E015E /* ElectrodeBridgeResponse.m in Sources */,
-				670F599C0B6E4D48B08577FD /* ElectrodeBridgeTransaction.m in Sources */,
-				E09A08FC7CCD42C3988BE9FB /* ElectrodeBridgeTransceiver.m in Sources */,
-				E54EE95AC719464DA3B179C2 /* ElectrodeEventDispatcher.m in Sources */,
-				7B8FBEE616184E1B9C2483A2 /* ElectrodeEventRegistrar.m in Sources */,
-				1FD1D801F3A14F56AE309006 /* ElectrodeRequestDispatcher.m in Sources */,
-				4340AF0FDC104E6EAD12A1F8 /* ElectrodeRequestRegistrar.m in Sources */,
-				FA7458D4DA9744C0B47710AE /* ElectrodeLogger.m in Sources */,
-				68BBE31833934FFC92191F14 /* RequestHandlerConfig.swift in Sources */,
-				EAE7366A9BED4397AEE254F6 /* RequestHandlerProvider.swift in Sources */,
-				C7CCCB5AE8F14BD98B0D150B /* RequestHandlerConfig.swift in undefined */,
-				5044B0CC4F3F41C6BA4CDBA3 /* RequestHandlerProvider.swift in undefined */,
-				4C9DAA60885741B18D5A37A7 /* WalmartItemApiController.swift in Sources */,
-				84D46456DCEC4915855D4D73 /* WalmartItemApiRequestHandlerDelegate.swift in Sources */,
+				9AA935F328244DF79E5F29E8 /* Item.swift in Sources */,
+				E10544CEE04A4C159FAB4EC9 /* WalmartItemAPI.swift in Sources */,
+				5C0D7724CC904FB29E412B4B /* WalmartItemEvents.swift in Sources */,
+				A6619120F42C469BAE3199E0 /* WalmartItemRequests.swift in Sources */,
+				8486E9B0355C4076B514772A /* ElectrodeObject.swift in Sources */,
+				7522E06D72FA485188DF1FE8 /* Bridgeable.swift in Sources */,
+				14ADFC868A354DB6ACFAF4CF /* ElectrodeRequestHandlerProcessor.swift in Sources */,
+				9DAD6EE4D34549A8830AD177 /* ElectrodeRequestProcessor.swift in Sources */,
+				19FA4255B1F54D1E81704253 /* ElectrodeUtilities.swift in Sources */,
+				2DB1BEDF7C824674A7D1094F /* EventListenerProcessor.swift in Sources */,
+				44C99D248BC8443CA3C6B7F5 /* EventProcessor.swift in Sources */,
+				3049DD6296044CC6AD0F9C89 /* Processor.swift in Sources */,
+				B8F7B0C152164203BBE78765 /* None.swift in Sources */,
+				4DFCE7A386DE450DB9430E66 /* ElectrodeBridgeEvent.m in Sources */,
+				20D8783F93FA4CDE8348AC1E /* ElectrodeBridgeFailureMessage.m in Sources */,
+				EA1C09975C6042F8853F0A40 /* ElectrodeBridgeHolder.m in Sources */,
+				A12CAE85F7C04D6CB7FBD6A9 /* ElectrodeBridgeMessage.m in Sources */,
+				BAE3FB9126B84E65830519C3 /* ElectrodeBridgeProtocols.m in Sources */,
+				EA09061959D84C57BFA22586 /* ElectrodeBridgeRequest.m in Sources */,
+				0E20AC1EB65E4DEE84F62D07 /* ElectrodeBridgeResponse.m in Sources */,
+				63DFCC25E3DD4CEDBF33D9AF /* ElectrodeBridgeTransaction.m in Sources */,
+				EDDFB1E70A5E4DD48DEC2E05 /* ElectrodeBridgeTransceiver.m in Sources */,
+				150E8C831E16434185725389 /* ElectrodeEventDispatcher.m in Sources */,
+				021BA8A95CB24AE5A14A2634 /* ElectrodeEventRegistrar.m in Sources */,
+				03D2CE1426254BBFAB58A355 /* ElectrodeRequestDispatcher.m in Sources */,
+				695967A63F834901A1A0BB03 /* ElectrodeRequestRegistrar.m in Sources */,
+				9D40BDFD526F44B1940B5455 /* ElectrodeLogger.m in Sources */,
+				EAC240AB7D5540E194C6DFF6 /* RequestHandlerConfig.swift in Sources */,
+				45B8188479EA4440A93D8E7E /* RequestHandlerProvider.swift in Sources */,
+				9A9786D2ED66455ABEF2F4F3 /* RequestHandlerConfig.swift in undefined */,
+				BE2FDED1CC77465384FE3741 /* RequestHandlerProvider.swift in undefined */,
+				49FA9C305F4E404F9FA2A63D /* WalmartItemApiController.swift in Sources */,
+				68AC72A7B49C44C581BC38CB /* WalmartItemApiRequestHandlerDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

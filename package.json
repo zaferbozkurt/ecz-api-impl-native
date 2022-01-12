@@ -7,7 +7,7 @@
     "react-native": "0.66.4"
   },
   "dependencies": {
-    "ecz-api": "1.0.1"
+    "ecz-api": "1.2.0"
   },
   "ern": {
     "containerGen": {

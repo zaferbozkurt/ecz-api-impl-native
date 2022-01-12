@@ -40,5 +40,8 @@ import Foundation
         WalmartItemApiController.instance.requestHandler = WalmartItemApiRequestHandlerProvider(handlerConfig: config)
         WalmartItemApiController.instance.requestHandler?.registerFindItemsRequestHandler()
         WalmartItemApiController.instance.requestHandler?.registerAddItemRequestHandler()
+        WalmartItemApiController.instance.requestHandler?.registerGetUsersRequestHandler()
+        WalmartItemApiController.instance.requestHandler?.registerAddUserRequestHandler()
+        WalmartItemApiController.instance.requestHandler?.registerClickDetailRequestHandler()
     }
 }

@@ -1663,10 +1663,10 @@ destroy@~1.0.4:
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
-ecz-api@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/ecz-api/-/ecz-api-1.0.1.tgz#7c3e898579cf522c7a99fb288e31b173d333c34e"
-  integrity sha512-0Lg+9V+gE4uDF2VCFejpexouQ9Qdi79FZObcZbA3tVuZzChlNUMDWSH3nWtC9snnDDCUW3YSTglDElZqrP2qfw==
+ecz-api@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/ecz-api/-/ecz-api-1.2.0.tgz#038b0adb7893cdb0415bd615aa00f80fada8a484"
+  integrity sha512-n6QhzoG2F39Vsw0BrgAP7yKVSA63lU3W45pKto+/Kh6YnCbrQOKtToHDkt+YzR5QwhVjMr+KEjjGu65alIJ7AA==
   dependencies:
     react-native-electrode-bridge "1.5.x"
 

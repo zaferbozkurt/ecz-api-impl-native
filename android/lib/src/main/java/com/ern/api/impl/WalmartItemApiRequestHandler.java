@@ -31,4 +31,10 @@ interface WalmartItemApiRequestHandler {
     void registerFindItemsRequestHandler();
 
     void registerAddItemRequestHandler();
+
+    void registerGetUsersRequestHandler();
+
+    void registerAddUserRequestHandler();
+
+    void registerClickDetailRequestHandler();
 }
